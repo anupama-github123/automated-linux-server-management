@@ -1,0 +1,15 @@
+# Generated backups
+backups/*
+
+# Generated logs
+logs/*
+
+# Generated reports
+reports/*
+
+# Temporary restoration files
+restore-test/
+
+# Temporary files
+*.tmp
+*.swp
